@@ -1,6 +1,8 @@
 c0llude
 =======
 
+![Image](https://github.com/neflabs/c0llude/blob/master/api/img/logo.svg?raw=true){:height="50px" width="50px"}
+
 c0llude is a self-hosted, flat-file collaboration tool for small teams and activists. Your data belongs to you and your team, not government lawyers and spies. So we built c0llude with privacy from the ground up, under the following principles:
 
 **Open Source**  
