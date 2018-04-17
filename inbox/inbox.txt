@@ -1,0 +1,3 @@
+Sample message. Edit /inbox/inbox.txt to delete it.
+
+See /plugin for more information.
