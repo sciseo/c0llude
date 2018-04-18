@@ -20,7 +20,7 @@ c0llude is a self-hosted, flat-file collaboration tool for small teams and activ
 
 # Quick Install
 
-On a PHP-capable web server, cd into the directory you want to install and run,
+On a PHP-capable web server, navigate to the directory where you want to install and run,
 ```
 git clone https://github.com/neflabs/c0llude
 chmod -R 770 c0llude
