@@ -1,4 +1,4 @@
-c0llude by Nefarious Laboratories  
+**c0llude by Nefarious Laboratories**  
 https://neflabs.com/blog/announcing-collude/
 
 0.1.2 (2018-04-00)
