@@ -26,8 +26,8 @@ git clone https://github.com/neflabs/c0llude
 chmod -R 770 c0llude
 ```
 
-Edit `/settings/site_name.txt` and `/settings/site_url.txt`
+Edit `/settings/site_name.txt` and `/settings/site_url.txt` to finish.
 
 # Access
 
-Be sure to set a password in the directory.
+Be sure to set a password for the directory.
