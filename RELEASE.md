@@ -11,7 +11,7 @@ Special thanks to Devin Hollister-Graham for the calendar functions.
 Responsive CSS for mobile will be integrated into the next release.  
 The next release will include a redesigned dashboard.  
 
-c0llude used fonts licensed under the SIL Open Font License, v1.1
+*c0llude uses fonts licensed under the SIL Open Font License, v1.1*
 ``` 
 https://fonts.google.com/specimen/Roboto+Mono
 https://fonts.google.com/specimen/Nunito+Sans
