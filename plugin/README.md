@@ -1,22 +1,21 @@
-c0llude by Nefarious Laboratories
-https://neflabs.com/blog/announcing-collude/
+c0llude Inbox Plugin
+====================
 
-0.1.2 (2018-04-00)
-==================
+## What is this for?
 
-##Notes
+Email is 1970's technology, it's unencrypted, and it's easily tracked by government agencies and malicious actors. So we built a flat-file inbox which keeps your messages private.  
 
-- Version 0.1.2 is the first public beta.
-- Special thanks to Devin Hollister-Graham for the calendar functions.
-- Support for ajax concurrency will be integrated into the next release.
-- Support for mobile will be integrated into the next release.
-- c0llude is designed for Roboto Mono and Nunito Sans.
-``` 
-Fonts are licensed under the SIL Open Font License, Version 1.1
-https://fonts.google.com/specimen/Roboto+Mono
-https://fonts.google.com/specimen/Nunito+Sans
-```
+How do others send messages to your flat-file inbox? This plugin is a template for a public contact form where anyone can compose a message, enter their contact information, press a button, and it will show up in your inbox instantly, along with the date and time it was received.
 
+## Example Setup
 
+For example, visitors might send you a message at [#](mywebsite.com/contact-us/) ... 
+and it will appear at [#](mywebsite.com/secret-c0llude-install/inbox/)
 
+## Modifications
 
+You can add more fields to the form (such as first and last name), add a captcha to prevent spam, or add a section for visitors to send you their public key. The options are unlimited.
+
+## Privacy
+
+As long as your server uses strong TLS encryption (https://), messages sent this way will never leave your server, will never be exposed to government agencies ... in short, your messages will remain in your hands, for your eyes only.
