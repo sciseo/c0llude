@@ -305,7 +305,6 @@ ul {
 }
 
 #caladd {
-	width: 85.5%;
         display: block;
         padding: 1vw 0 1.2vw 1.2vw;
         margin: 3vw 0 1vw 0;
@@ -403,7 +402,7 @@ ul {
 }
 
 #ca-event {
-	width: 47%;
+	width: 41%;
 	height: 3vw;
 	padding-left: 1vw;
 	margin-top: 1vw;
