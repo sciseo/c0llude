@@ -2,8 +2,6 @@
 $content = file('../whiteboard/calendar/calendar.txt');
 $pattern = 'id="'.$_GET['id'].'"';
 $replace = '';
-wtf($pattern);
-
 
 foreach($content as $key => $line) {
   if (strstr($line, $pattern) !== false) {
