@@ -12,4 +12,5 @@ foreach($content as $key => $line) {
 
 header('Location: ../whiteboard/tasks/index.php');
 exit();
+
 ?>
