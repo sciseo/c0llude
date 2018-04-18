@@ -9,8 +9,8 @@ How do others send messages to your flat-file inbox? This plugin is a template f
 
 ## Example Setup
 
-For example, visitors might send you a message at [#](mywebsite.com/contact-us/) ... 
-and it will appear at [#](mywebsite.com/secret-c0llude-install/inbox/)
+For example, visitors might send you a message at [mywebsite.com/contact-us/](#) ... 
+and it will appear at [mywebsite.com/secret-c0llude-install/inbox/](#)
 
 ## Modifications
 
