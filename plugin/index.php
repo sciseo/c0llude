@@ -10,8 +10,8 @@ function WriteMessage() {
 	$data = htmlspecialchars($_POST['message']) ." - ". htmlspecialchars($_POST['connect']);
 	$break = " | " .$date. "\n\n\n";
 
-	file_put_contents(__DIR__ . '/../inbox/inbox.txt', $data, FILE_APPEND);
-	file_put_contents(__DIR__ . '/../inbox/inbox.txt', $break, FILE_APPEND);
+	file_put_contents(__DIR__ . '/../c0llude/inbox/inbox.txt', $data, FILE_APPEND);
+	file_put_contents(__DIR__ . '/../c0llude/inbox/inbox.txt', $break, FILE_APPEND);
 
 	header('Location: thanks.html');
 	exit();
